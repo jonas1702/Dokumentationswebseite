@@ -104,7 +104,7 @@ main, footer{
     height: 40;
     z-index: 10;
     color: #326AEA;
-    cursor: pointer;
+    cursor: pointer !important;
 }
 
 .logo-text span:nth-of-type(1){
